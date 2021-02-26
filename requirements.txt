@@ -1,5 +1,5 @@
 Flask_Cors==3.0.10
-torch==1.7.1+cpu
+https://download.pytorch.org/whl/cpu/torch-1.7.1%2Bcpu-cp38-cp38-linux_x86_64.whl
 librosa==0.8.0
 Werkzeug==1.0.1
 Flask==1.1.2
